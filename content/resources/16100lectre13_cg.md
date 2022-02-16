@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains notes for kutta condition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/46e304e57667f872d9f40f0dd0836bd1_16100lectre13_cg.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/46e304e57667f872d9f40f0dd0836bd1_16100lectre13_cg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16100lectre13_cg.pdf
 uid: 46e304e5-7667-f872-d9f4-0f0dd0836bd1

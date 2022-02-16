@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains notes for stress-strain relationship for a newtonian
   fluid.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/243fc156afeebdf0010c4b71020fe116_16100lecture3_cg.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/243fc156afeebdf0010c4b71020fe116_16100lecture3_cg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16100lecture3_cg.pdf
 uid: 243fc156-afee-bdf0-010c-4b71020fe116

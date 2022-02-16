@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains notes for viscous flow: stress strain relationship.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/0394faf99e587cd822ede3838890e534_16100lectre21_cg.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/0394faf99e587cd822ede3838890e534_16100lectre21_cg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16100lectre21_cg.pdf
 uid: 0394faf9-9e58-7cd8-22ed-e3838890e534

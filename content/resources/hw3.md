@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains exercise based on the readings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/a8e34ecf1c830e21b0a96a8226c62a16_hw3.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/a8e34ecf1c830e21b0a96a8226c62a16_hw3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw3.pdf
 uid: a8e34ecf-1c83-0e21-b0a9-6a8226c62a16

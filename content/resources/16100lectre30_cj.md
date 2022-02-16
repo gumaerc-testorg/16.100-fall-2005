@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains solutions for the laminar boundary layer equations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/b7e50c32c3299061ebeb395b2eb9e23a_16100lectre30_cj.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/b7e50c32c3299061ebeb395b2eb9e23a_16100lectre30_cj.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16100lectre30_cj.pdf
 uid: b7e50c32-c329-9061-ebeb-395b2eb9e23a

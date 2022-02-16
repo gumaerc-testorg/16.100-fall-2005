@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains questions for take home exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/bd735c79eaa1a1a0c5609445a8424a11_examtakehome2.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/bd735c79eaa1a1a0c5609445a8424a11_examtakehome2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: examtakehome2.pdf
 uid: bd735c79-eaa1-a1a0-c560-9445a8424a11

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
+file: /media/courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16100lectre12_cg.pdf
 uid: b0109667-2f4e-9468-2b4f-ecfffaa1f1d0
