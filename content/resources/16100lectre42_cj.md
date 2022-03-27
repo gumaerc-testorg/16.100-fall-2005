@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aac0011c-aef7-5515-ccc9-354af44ae163
 resourcetype: Document
 title: 16100lectre42_cj.pdf
 uid: 2d7918bc-f620-8f28-74dc-95ad89895817

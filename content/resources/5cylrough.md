@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2827ef9f-2505-3ad1-ea6f-69f2e59fdf7d
 resourcetype: Document
 title: 5cylrough.pdf
 uid: c9c02944-1d38-0f88-b558-dd0593c51f58

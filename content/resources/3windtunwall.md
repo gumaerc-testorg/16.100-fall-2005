@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2827ef9f-2505-3ad1-ea6f-69f2e59fdf7d
 resourcetype: Document
 title: 3windtunwall.pdf
 uid: 8d88b5da-cd03-ac9a-9358-dadb8038ca77
