@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for solution convergence.
-file: /media/courses/16-100-aerodynamics-fall-2005/aa6350eeed2785870cfd30c1b2cef9ef_16100lectre49_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/aa6350eeed2785870cfd30c1b2cef9ef_16100lectre49_cj.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 16100lectre49_cj.pdf
 uid: aa6350ee-ed27-8587-0cfd-30c1b2cef9ef
 ---
+This file contains notes for solution convergence.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
+file: /courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

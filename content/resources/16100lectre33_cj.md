@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for ground effect using single vortex model.
-file: /media/courses/16-100-aerodynamics-fall-2005/406dd23456de468ef9edd4ad936f1380_16100lectre33_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/406dd23456de468ef9edd4ad936f1380_16100lectre33_cj.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 16100lectre33_cj.pdf
 uid: 406dd234-56de-468e-f9ed-d4ad936f1380
 ---
+This file contains notes for ground effect using single vortex model.
+

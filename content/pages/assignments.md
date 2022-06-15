@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the set of exercises for various topics
+  covered in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -47,7 +49,7 @@ Aerodynamic Design of BWB - Lecture by Bob Liebeck, The Boeing Company
 {{< tdopen >}}
 
 
-Homework 1 ([PDF]({{< baseurl >}}/resources/hw1))
+Homework 1 ({{% resource_link e198d729-7ab1-c2f0-d3a0-66fdc745062d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -71,7 +73,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/hw1))
 {{< tdopen >}}
 
 
-Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
+Homework 2 ({{% resource_link e68820c4-96d9-e099-760e-d91c706d02f6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -95,7 +97,7 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
 {{< tdopen >}}
 
 
-Homework 3 ([PDF]({{< baseurl >}}/resources/hw3))
+Homework 3 ({{% resource_link a8e34ecf-1c83-0e21-b0a9-6a8226c62a16 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -119,7 +121,7 @@ Thin Airfoil Theory and Vortex Lattice Methods
 {{< tdopen >}}
 
 
-Homework 4 ([PDF]({{< baseurl >}}/resources/hw4))
+Homework 4 ({{% resource_link 49ce938a-60f3-5e06-422c-788052ad2051 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -143,7 +145,7 @@ Lifting Line and High Aspect Ratio Wings
 {{< tdopen >}}
 
 
-Homework 5 ([PDF]({{< baseurl >}}/resources/hw5))
+Homework 5 ({{% resource_link 779ed836-3e76-9eba-63fb-7be74ac03096 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -167,7 +169,7 @@ Navier-Stokes Equations
 {{< tdopen >}}
 
 
-Homework 6 ([PDF]({{< baseurl >}}/resources/hw6))
+Homework 6 ({{% resource_link 7a6515a6-fa96-c17b-c301-e26d2bd1fe5a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -191,11 +193,11 @@ Boundary Layers: Laminar
 {{< tdopen >}}
 
 
-Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
+Homework 7 ({{% resource_link 533f5b54-e7eb-73bf-aa69-0d370b2a8439 "PDF" %}})
 
-2004 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7_2004))
+2004 Homework 7 ({{% resource_link 4f1da98f-26c8-1e0b-14d1-425fea02c241 "PDF" %}})
 
-2004 Homework 7 Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw7_2004soln))
+2004 Homework 7 Solutions ({{% resource_link 4b3a9161-7d13-3a58-0bef-ed070ddbf742 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -219,7 +221,7 @@ Boundary Layers: Laminar (cont.) and Separation
 {{< tdopen >}}
 
 
-Homework 8 ([PDF]({{< baseurl >}}/resources/hw8))
+Homework 8 ({{% resource_link 8787b12e-5583-d42c-9991-901a37e12384 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -243,7 +245,7 @@ Boundary Layers: Transition and Turbulence
 {{< tdopen >}}
 
 
-Homework 9 ([PDF]({{< baseurl >}}/resources/hw9))
+Homework 9 ({{% resource_link 7ccf264f-8612-3599-1e0a-11341e78aa15 "PDF" %}})
 
 
 {{< tdclose >}}

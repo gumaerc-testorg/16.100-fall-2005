@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Projects section contains the list of projects used in the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,12 +16,12 @@ During the first two months of the semester, the staff will guide the students t
 2.  Written evaluations after each milestone by all team members of the contributions of each team member (including self-evaluations), and
 3.  Delineation within the written reports of an individual's contributions.
 
-Project Assignment 1 ([PDF]({{< baseurl >}}/resources/proj1))
+Project Assignment 1 ({{% resource_link 2dae27e0-9688-d041-6c0f-e4de42a7f144 "PDF" %}})
 
-Project Assignment 2 ([PDF]({{< baseurl >}}/resources/proj2))
+Project Assignment 2 ({{% resource_link 300202d9-db6b-61b9-a217-f9d168aa7cc4 "PDF" %}})
 
-Project Assignment 3 ([PDF]({{< baseurl >}}/resources/proj3))
+Project Assignment 3 ({{% resource_link 684455c9-8de2-0705-db44-36dda619c615 "PDF" %}})
 
-Project Assignment 4 ([PDF]({{< baseurl >}}/resources/proj4))
+Project Assignment 4 ({{% resource_link 4cfd80a6-3420-1298-7e0e-8bd8e2af23a1 "PDF" %}})
 
-Project Design Assignment ([PDF]({{< baseurl >}}/resources/projfinal))
+Project Design Assignment ({{% resource_link 906f9053-3e79-6245-df88-e34950cbb7d3 "PDF" %}})

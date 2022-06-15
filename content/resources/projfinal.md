@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the details about the assignment on redesign of BWB.
-file: /media/courses/16-100-aerodynamics-fall-2005/906f90533e796245df88e34950cbb7d3_projfinal.pdf
+file: /courses/16-100-aerodynamics-fall-2005/906f90533e796245df88e34950cbb7d3_projfinal.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: projfinal.pdf
 uid: 906f9053-3e79-6245-df88-e34950cbb7d3
 ---
+This file contains the details about the assignment on redesign of BWB.
+
