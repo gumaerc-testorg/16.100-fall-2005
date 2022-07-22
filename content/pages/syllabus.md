@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section contains course description, objectives, grading criteria,
+  grading scores, exams and assignments information.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e49b74b2-9926-9c88-fc2f-e823f93063d6
 ---
@@ -196,4 +200,4 @@ The total individual student grade on the design project will be based on a team
 Exams
 -----
 
-The exams will have a take-home written portion and an oral portion. Students will have a few days to complete the written exam (see the [calendar]({{< baseurl >}}/pages/calendar) section for the specific sessions, the take-home exams will be distributed and due). The written exams will then be followed by an oral exam. The oral exams will be largely, though not exclusively, based on the questions from the written exam. The oral exam will be 30 minutes in length, conducted by Prof. Darmofal. The written exam questions will be similar to homework questions focusing mainly on quantitative and integrative abilities. The oral exams will focus on conceptual understanding.
+The exams will have a take-home written portion and an oral portion. Students will have a few days to complete the written exam (see the {{% resource_link 7f65a392-27f8-2753-89ce-62494cf5b16a "calendar" %}} section for the specific sessions, the take-home exams will be distributed and due). The written exams will then be followed by an oral exam. The oral exams will be largely, though not exclusively, based on the questions from the written exam. The oral exam will be 30 minutes in length, conducted by Prof. Darmofal. The written exam questions will be similar to homework questions focusing mainly on quantitative and integrative abilities. The oral exams will focus on conceptual understanding.
