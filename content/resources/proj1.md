@@ -6,6 +6,7 @@ file: /courses/16-100-aerodynamics-fall-2005/2dae27e09688d0416c0fe4de42a7f144_pr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: proj1.pdf
 uid: 2dae27e0-9688-d041-6c0f-e4de42a7f144
 ---
 This file contains the sample solutions for data, aerodynamic models and requirements.
-

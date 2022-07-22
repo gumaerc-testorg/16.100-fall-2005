@@ -5,6 +5,7 @@ file: /courses/16-100-aerodynamics-fall-2005/e198d7297ab1c2f0d3a066fdc745062d_hw
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw1.pdf
 uid: e198d729-7ab1-c2f0-d3a0-66fdc745062d
 ---
 This file contains exercise based on the readings assignment.
-

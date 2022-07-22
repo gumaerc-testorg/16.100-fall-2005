@@ -6,6 +6,7 @@ file: /courses/16-100-aerodynamics-fall-2005/684455c98de20705db4436dda619c615_pr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: proj3.pdf
 uid: 684455c9-8de2-0705-db44-36dda619c615
 ---
 This file contains the project assignment for cruise and approach analysis of BWB.
-

@@ -5,6 +5,7 @@ file: /courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

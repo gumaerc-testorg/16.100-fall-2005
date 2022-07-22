@@ -5,6 +5,7 @@ file: /courses/16-100-aerodynamics-fall-2005/906f90533e796245df88e34950cbb7d3_pr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: projfinal.pdf
 uid: 906f9053-3e79-6245-df88-e34950cbb7d3
 ---
 This file contains the details about the assignment on redesign of BWB.
-

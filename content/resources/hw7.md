@@ -6,6 +6,7 @@ file: /courses/16-100-aerodynamics-fall-2005/533f5b54e7eb73bfaa690d370b2a8439_hw
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw7.pdf
 uid: 533f5b54-e7eb-73bf-aa69-0d370b2a8439
 ---
 This file contains exercise based on readings section for boundary layers: laminar.
-

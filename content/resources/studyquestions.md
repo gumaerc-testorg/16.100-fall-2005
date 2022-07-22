@@ -5,6 +5,7 @@ file: /courses/16-100-aerodynamics-fall-2005/3023d0420b4536338998e9452fbea46f_st
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: studyquestions.pdf
 uid: 3023d042-0b45-3633-8998-e9452fbea46f
 ---
 This file contains study questions along with their solutions.
-
