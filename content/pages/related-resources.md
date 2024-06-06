@@ -1,12 +1,12 @@
 ---
 content_type: page
 description: Related resources contains useful links to aid the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 9f06889a-6e35-a585-11ed-1215e3884764
 ---
-
 Useful Links
 ------------
 
