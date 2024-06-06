@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for waves in 1D compressible flow.
 file: /courses/16-100-aerodynamics-fall-2005/ad24f2a42518a54cf1e94f034d2dc7c9_16100lectre40_cj.pdf
+file_size: 21564
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

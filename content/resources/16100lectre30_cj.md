@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains solutions for the laminar boundary layer equations.
 file: /courses/16-100-aerodynamics-fall-2005/b7e50c32c3299061ebeb395b2eb9e23a_16100lectre30_cj.pdf
+file_size: 30098
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

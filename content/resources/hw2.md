@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the exercise based on reading assignment.
 file: /courses/16-100-aerodynamics-fall-2005/e68820c496d9e099760ed91c706d02f6_hw2.pdf
+file_size: 135163
 file_type: application/pdf
 learning_resource_types:
 - Assignments

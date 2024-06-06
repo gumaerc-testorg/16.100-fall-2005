@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for three-dimensional wall effects.
 file: /courses/16-100-aerodynamics-fall-2005/06c73c0c71b4537eb023e400f7e7fc68_16100lectre34_cj.pdf
+file_size: 83780
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
