@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for sensitivity analysis.
 file: /courses/16-100-aerodynamics-fall-2005/e7e292700309f48a47291eddb6a6d92a_16100lectre1_kvm.pdf
+file_size: 52011
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

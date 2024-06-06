@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for force calculations for lifting line.
 file: /courses/16-100-aerodynamics-fall-2005/0d4e4bdb7badca18ff23efc20f99a285_16100lectre18_cg.pdf
+file_size: 96650
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
