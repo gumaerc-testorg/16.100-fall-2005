@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for equations of aircraft motion.
 file: /courses/16-100-aerodynamics-fall-2005/678fcdd7f52560f148826442b6885f3e_16100lecture8_cg.pdf
+file_size: 171976
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

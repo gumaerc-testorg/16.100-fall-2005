@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for integral boundary layer equations.
 file: /courses/16-100-aerodynamics-fall-2005/62a16a6037d27a1af54a076139cfc95f_16100lectre22_cg.pdf
+file_size: 135402
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

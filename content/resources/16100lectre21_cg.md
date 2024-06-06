@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains notes for viscous flow: stress strain relationship.'
 file: /courses/16-100-aerodynamics-fall-2005/0394faf99e587cd822ede3838890e534_16100lectre21_cg.pdf
+file_size: 100237
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
