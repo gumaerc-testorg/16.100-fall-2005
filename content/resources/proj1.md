@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the sample solutions for data, aerodynamic models
   and requirements.
-file: /courses/16-100-aerodynamics-fall-2005/2dae27e09688d0416c0fe4de42a7f144_proj1.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/2dae27e09688d0416c0fe4de42a7f144_proj1.pdf
 file_size: 81445
 file_type: application/pdf
 learning_resource_types:

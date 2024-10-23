@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for effect of turbulent fluctuations on mean
   flow: reynolds-averaging.'
-file: /courses/16-100-aerodynamics-fall-2005/8d548fc28cf6762c1815dbd03a0b8f5a_16100lectre26_cg.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/8d548fc28cf6762c1815dbd03a0b8f5a_16100lectre26_cg.pdf
 file_size: 105990
 file_type: application/pdf
 learning_resource_types:

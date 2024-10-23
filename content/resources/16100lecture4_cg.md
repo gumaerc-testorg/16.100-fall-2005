@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for coordination transformations for strain
   and stress rates.
-file: /courses/16-100-aerodynamics-fall-2005/9f8921b87a3f912f2dd229cf93daee36_16100lecture4_cg.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/9f8921b87a3f912f2dd229cf93daee36_16100lecture4_cg.pdf
 file_size: 139906
 file_type: application/pdf
 learning_resource_types:
