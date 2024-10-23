@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for the summary of thin airfoil theory.
-file: /courses/16-100-aerodynamics-fall-2005/550e5fb9995272fa8b3db7baf158e098_16100lectre15_cg.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/550e5fb9995272fa8b3db7baf158e098_16100lectre15_cg.pdf
 file_size: 116799
 file_type: application/pdf
 learning_resource_types:
