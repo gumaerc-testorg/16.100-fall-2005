@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for kinematics of a fluid element.
-file: /courses/16-100-aerodynamics-fall-2005/3b50683661e72d155cca6fe0f5fab3d3_16100lecture2_cg.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/3b50683661e72d155cca6fe0f5fab3d3_16100lecture2_cg.pdf
 file_size: 115904
 file_type: application/pdf
 learning_resource_types:
