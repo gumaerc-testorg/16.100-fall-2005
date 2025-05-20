@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a graph for CD NACA.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/7774c17357f08ad69c4c09bf922a092b_8cdnaca.pdf
+file: /courses/16-100-aerodynamics-fall-2005/7774c17357f08ad69c4c09bf922a092b_8cdnaca.pdf
 file_size: 535492
 file_type: application/pdf
 learning_resource_types: []

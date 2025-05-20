@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a graph for cylinder drag with roughness, which is
   to be accompanied in a project assignment.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/c9c029441d380f88b558dd0593c51f58_5cylrough.pdf
+file: /courses/16-100-aerodynamics-fall-2005/c9c029441d380f88b558dd0593c51f58_5cylrough.pdf
 file_size: 600375
 file_type: application/pdf
 learning_resource_types: []

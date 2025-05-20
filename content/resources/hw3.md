@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise based on the readings.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/a8e34ecf1c830e21b0a96a8226c62a16_hw3.pdf
+file: /courses/16-100-aerodynamics-fall-2005/a8e34ecf1c830e21b0a96a8226c62a16_hw3.pdf
 file_size: 115995
 file_type: application/pdf
 learning_resource_types:

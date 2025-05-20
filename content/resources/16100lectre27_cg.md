@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for poiseuille flow through a duct in 2-D.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/0316140459ed36851f1dd508df90a41a_16100lectre27_cg.pdf
+file: /courses/16-100-aerodynamics-fall-2005/0316140459ed36851f1dd508df90a41a_16100lectre27_cg.pdf
 file_size: 103928
 file_type: application/pdf
 learning_resource_types:

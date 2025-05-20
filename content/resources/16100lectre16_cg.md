@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains important concepts in thin airfoil theory.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/ff4a132896f0cf896b9f82929a55a40a_16100lectre16_cg.pdf
+file: /courses/16-100-aerodynamics-fall-2005/ff4a132896f0cf896b9f82929a55a40a_16100lectre16_cg.pdf
 file_size: 96564
 file_type: application/pdf
 learning_resource_types:
