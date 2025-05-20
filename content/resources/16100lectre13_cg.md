@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for kutta condition.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/46e304e57667f872d9f40f0dd0836bd1_16100lectre13_cg.pdf
+file: /courses/16-100-aerodynamics-fall-2005/46e304e57667f872d9f40f0dd0836bd1_16100lectre13_cg.pdf
 file_size: 117149
 file_type: application/pdf
 learning_resource_types:

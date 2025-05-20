@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exam questions for practice.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/174849c760ac539e20255c9741973a31_examtakehome1.pdf
+file: /courses/16-100-aerodynamics-fall-2005/174849c760ac539e20255c9741973a31_examtakehome1.pdf
 file_size: 124203
 file_type: application/pdf
 learning_resource_types:

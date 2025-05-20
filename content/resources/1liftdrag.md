@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains definition of lift and drag, and information on source
   of drag, airfoils, pressure drag etc.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/73a9bf992dedf4310571ca73e0531bcf_1liftdrag.pdf
+file: /courses/16-100-aerodynamics-fall-2005/73a9bf992dedf4310571ca73e0531bcf_1liftdrag.pdf
 file_size: 328933
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for derivation of sound wave properties.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/c03be4ee32b52d891f8130e5dd003ebc_16100lectre39_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/c03be4ee32b52d891f8130e5dd003ebc_16100lectre39_cj.pdf
 file_size: 34545
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for propagation of disturbances By a moving
   object.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/2d7918bcf6208f2874dc95ad89895817_16100lectre42_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/2d7918bcf6208f2874dc95ad89895817_16100lectre42_cj.pdf
 file_size: 22694
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains exercise questions based on readings for boundary
   layers: laminar and separation.'
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/8787b12e5583d42c9991901a37e12384_hw8.pdf
+file: /courses/16-100-aerodynamics-fall-2005/8787b12e5583d42c9991901a37e12384_hw8.pdf
 file_size: 101812
 file_type: application/pdf
 learning_resource_types:

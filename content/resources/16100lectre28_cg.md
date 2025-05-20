@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for duct flow.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/0854dd0a2272d0f5cb8a7bf8daa812cd_16100lectre28_cg.pdf
+file: /courses/16-100-aerodynamics-fall-2005/0854dd0a2272d0f5cb8a7bf8daa812cd_16100lectre28_cg.pdf
 file_size: 108148
 file_type: application/pdf
 learning_resource_types:

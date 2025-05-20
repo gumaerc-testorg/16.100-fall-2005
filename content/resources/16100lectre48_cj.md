@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for structured vs. unstructured grids.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/749b513e3bf81c9a90c56bb138d389da_16100lectre48_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/749b513e3bf81c9a90c56bb138d389da_16100lectre48_cj.pdf
 file_size: 21672
 file_type: application/pdf
 learning_resource_types:
