@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for implications of linearized supersonic flow
   on airfoil lift and drag.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/67253fd98e0557d524e7f9cdaaa7c3f3_16100lectre44_cj.pdf
+file: /courses/16-100-aerodynamics-fall-2005/67253fd98e0557d524e7f9cdaaa7c3f3_16100lectre44_cj.pdf
 file_size: 54711
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains study questions along with their solutions.
-file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/3023d0420b4536338998e9452fbea46f_studyquestions.pdf
+file: /courses/16-100-aerodynamics-fall-2005/3023d0420b4536338998e9452fbea46f_studyquestions.pdf
 file_size: 667640
 file_type: application/pdf
 learning_resource_types:
