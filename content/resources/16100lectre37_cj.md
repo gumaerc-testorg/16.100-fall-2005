@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for critical mach number.
-file: /courses/16-100-aerodynamics-fall-2005/c816fa376dd8657b77dddbc00510ea86_16100lectre37_cj.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/c816fa376dd8657b77dddbc00510ea86_16100lectre37_cj.pdf
 file_size: 26605
 file_type: application/pdf
 learning_resource_types:

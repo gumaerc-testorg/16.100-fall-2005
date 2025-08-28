@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for three-dimensional wall effects.
-file: /courses/16-100-aerodynamics-fall-2005/8d88b5dacd03ac9a9358dadb8038ca77_3windtunwall.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/8d88b5dacd03ac9a9358dadb8038ca77_3windtunwall.pdf
 file_size: 362150
 file_type: application/pdf
 learning_resource_types: []
