@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for normal shock waves.
-file: /courses/16-100-aerodynamics-fall-2005/92569ec40d1c1bcf44e56c7af1019228_16100lectre41_cj.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/92569ec40d1c1bcf44e56c7af1019228_16100lectre41_cj.pdf
 file_size: 27123
 file_type: application/pdf
 learning_resource_types:
