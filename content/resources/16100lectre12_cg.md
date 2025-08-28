@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
 file_size: 194168
 file_type: application/pdf
 learning_resource_types:

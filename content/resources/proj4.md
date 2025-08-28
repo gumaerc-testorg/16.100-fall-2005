@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the project assignment for transonic effects on BWB
   root airfoil.
-file: /courses/16-100-aerodynamics-fall-2005/4cfd80a6342012987e0e8bd8e2af23a1_proj4.pdf
+file: /ol-ocw-studio-app/courses/16-100-aerodynamics-fall-2005/4cfd80a6342012987e0e8bd8e2af23a1_proj4.pdf
 file_size: 62583
 file_type: application/pdf
 learning_resource_types:
